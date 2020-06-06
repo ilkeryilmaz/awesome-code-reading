@@ -86,3 +86,12 @@ Stack:
 
 Source:
 https://github.com/twbs/bootstrap
+
+### Excalidraw
+
+Stack:
+
+> Typescript
+
+Source:
+https://github.com/excalidraw/excalidraw
