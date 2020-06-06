@@ -1,5 +1,7 @@
 # Awesome Code Reading
 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 I like looking at much better code bases than my own when I am considering making something. It's really motivates me. I will regularly list the source codes I have reviewed under this repo.
 
 ## Projects
@@ -17,7 +19,7 @@ https://github.com/uber/baseweb
 
 Stack:
 
-> React, ES&, D3
+> React, ES6, D3
 
 Source:
 https://github.com/uber/react-vis
