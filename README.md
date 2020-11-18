@@ -95,3 +95,30 @@ Stack:
 
 Source:
 https://github.com/excalidraw/excalidraw
+
+### Spectrum
+
+Stack:
+
+> React
+
+Source:
+https://github.com/withspectrum/spectrum
+
+### Devhub
+
+Stack:
+
+> React, Typescript
+
+Source:
+https://github.com/devhubapp/devhub
+
+### Mattermost webapp
+
+Stack:
+
+> React
+
+Source:
+https://github.com/mattermost/mattermost-webapp
